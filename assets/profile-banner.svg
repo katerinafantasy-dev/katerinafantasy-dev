@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Katerina — Visual Design / Generative AI / Small Apps</title>
+  <desc id="desc">Minimal black profile banner with centered white typography and red dot separators.</desc>
+  <rect width="1200" height="280" fill="#080808"/>
+  <text x="600" y="126" fill="#f6f6f3" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Katerina</text>
+  <text x="470" y="178" fill="#f6f6f3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">VISUAL DESIGN</text>
+  <circle cx="500" cy="172" r="4" fill="#e12d32"/>
+  <text x="600" y="178" fill="#f6f6f3" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">GENERATIVE AI</text>
+  <circle cx="700" cy="172" r="4" fill="#e12d32"/>
+  <text x="730" y="178" fill="#f6f6f3" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SMALL APPS</text>
+</svg>

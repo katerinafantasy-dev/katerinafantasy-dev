@@ -1,28 +1,38 @@
-# Hi, I'm Katerina!
+<img alt="Katerina — Visual Design / Generative AI / Small Apps" src="assets/profile-banner.svg">
 
-**Visual Design · Generative AI · Vibe Coding**
+I'm learning visual design, experimenting with generative AI, and building small apps with AI coding tools.
 
-I'm learning visual design, experimenting with AI-generated images and video, and building useful apps with AI.
+I like turning loose ideas into useful, hands-on projects and learning by making.
 
-I enjoy trying new tools and turning ideas into real projects.
+## Selected projects
 
-## My projects
-
-### News Digest
-A personal dashboard for keeping track of news and tools in AI visual design.
-
-### Whisper Studio
-A local app for audio transcription and creating notes from recordings.
-
-### VK AI Post Studio
-A work-in-progress app for planning, reviewing, and managing content for a VK community.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="assets/news-digest.png"><img alt="News Digest screenshot" src="assets/news-digest.png" width="100%"></a>
+      <h3>News Digest</h3>
+      A personal dashboard for following news and tools in AI visual design.
+    </td>
+    <td width="33%" valign="top">
+      <a href="assets/whisper-studio.png"><img alt="Whisper Studio screenshot" src="assets/whisper-studio-preview.png" width="100%"></a>
+      <h3>Whisper Studio</h3>
+      A local app for audio transcription and turning recordings into notes.
+    </td>
+    <td width="33%" valign="top">
+      <a href="assets/vk-ai-post-studio.png"><img alt="VK AI Post Studio screenshot" src="assets/vk-ai-post-studio.png" width="100%"></a>
+      <h3>VK AI Post Studio</h3>
+      A work-in-progress app for planning and managing content for a VK community.
+    </td>
+  </tr>
+</table>
 
 *These are personal projects. Their source code is currently private.*
 
-## Tools I use & learn
+## Tools
 
-Figma · ChatGPT · Codex · DeepSeek · Hermes
+**Design** — Figma<br>
+**AI** — ChatGPT, Codex, DeepSeek, Hermes
 
 ## Currently learning
 
-Figma, visual design, and web development.
+Figma, visual design and web development.
