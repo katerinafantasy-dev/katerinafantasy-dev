@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Katerina — Visual Design / Generative AI / Small Apps</title>
+  <desc id="desc">Minimal black profile banner with white typography and a subtle cat-ear headphone line motif.</desc>
+  <rect width="1200" height="280" fill="#080808"/>
+  <g fill="#f5f5f2" font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="118" font-size="68" font-weight="700" letter-spacing="-3">Katerina</text>
+    <text x="60" y="164" font-size="17" letter-spacing="3">VISUAL DESIGN  /  GENERATIVE AI  /  SMALL APPS</text>
+  </g>
+  <g fill="none" stroke="#f5f5f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M926 158 L926 132 C926 82 1080 82 1080 132 L1080 158"/>
+    <path d="M926 132 L916 112 L943 118"/>
+    <path d="M1080 132 L1090 112 L1063 118"/>
+    <path d="M916 158 C916 178 931 192 951 192"/>
+    <path d="M1090 158 C1090 178 1075 192 1055 192"/>
+  </g>
+  <rect x="906" y="154" width="32" height="50" rx="16" fill="#080808" stroke="#f5f5f2" stroke-width="3"/>
+  <rect x="1068" y="154" width="32" height="50" rx="16" fill="#080808" stroke="#f5f5f2" stroke-width="3"/>
+  <circle cx="1079" cy="163" r="6" fill="#e12d32"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Katerina — Visual Design / Generative AI / Small Apps</title>
+  <desc id="desc">Minimal black profile banner with white typography and small whisker-like red and white lines.</desc>
+  <rect width="1200" height="280" fill="#080808"/>
+  <g fill="#f5f5f2" font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="118" font-size="68" font-weight="700" letter-spacing="-3">Katerina</text>
+    <text x="60" y="164" font-size="17" letter-spacing="3">VISUAL DESIGN  /  GENERATIVE AI  /  SMALL APPS</text>
+  </g>
+  <g fill="none" stroke="#f5f5f2" stroke-width="3" stroke-linecap="round">
+    <path d="M930 148 H1100"/>
+    <path d="M960 126 C992 140 1018 140 1049 126"/>
+    <path d="M960 170 C992 156 1018 156 1049 170"/>
+  </g>
+  <circle cx="1049" cy="126" r="7" fill="#e12d32"/>
+  <circle cx="960" cy="170" r="5" fill="#080808" stroke="#e12d32" stroke-width="3"/>
+</svg>

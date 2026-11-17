@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
-  <img alt="Katerina — visual experiments, generative AI and small apps" src="assets/profile-banner.svg">
-</picture>
+<img alt="Katerina — Visual Design / Generative AI / Small Apps" src="assets/profile-banner.svg">
 
 ### Hello, I'm Katerina
 
