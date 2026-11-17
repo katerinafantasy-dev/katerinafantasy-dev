@@ -1,18 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Katerina — Visual Design / Generative AI / Small Apps</title>
-  <desc id="desc">Minimal black profile banner with white typography and a small red-accented cat line motif.</desc>
+  <desc id="desc">Minimal black profile banner with centered white typography and red dot separators.</desc>
   <rect width="1200" height="280" fill="#080808"/>
-  <g fill="#f5f5f2" font-family="Arial, Helvetica, sans-serif">
-    <text x="56" y="118" font-size="68" font-weight="700" letter-spacing="-3">Katerina</text>
-    <text x="60" y="164" font-size="17" letter-spacing="3">VISUAL DESIGN  /  GENERATIVE AI  /  SMALL APPS</text>
-  </g>
-  <g fill="none" stroke="#f5f5f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M908 174 L908 116 L928 84 L958 108 L1012 108 L1042 84 L1062 116 L1062 174"/>
-    <path d="M930 149 C946 137 961 137 985 149"/>
-    <path d="M960 149 C960 168 973 178 985 187"/>
-    <path d="M985 187 C997 178 1010 168 1010 149"/>
-    <path d="M1025 149 C1041 137 1056 137 1072 149"/>
-  </g>
-  <circle cx="985" cy="187" r="7" fill="#e12d32"/>
-  <path d="M985 194 V214" fill="none" stroke="#e12d32" stroke-width="3" stroke-linecap="round"/>
+  <text x="600" y="126" fill="#f6f6f3" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Katerina</text>
+  <text x="470" y="178" fill="#f6f6f3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">VISUAL DESIGN</text>
+  <circle cx="500" cy="172" r="4" fill="#e12d32"/>
+  <text x="600" y="178" fill="#f6f6f3" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">GENERATIVE AI</text>
+  <circle cx="700" cy="172" r="4" fill="#e12d32"/>
+  <text x="730" y="178" fill="#f6f6f3" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SMALL APPS</text>
 </svg>
