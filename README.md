@@ -35,7 +35,7 @@ I like turning loose ideas into useful, hands-on projects and learning by making
 
 ## Tools
 
-**Design** — Figma  
+**Design** — Figma<br>
 **AI** — ChatGPT, Codex, DeepSeek, Hermes
 
 ## Currently learning
